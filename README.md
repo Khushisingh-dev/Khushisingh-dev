@@ -8,14 +8,10 @@ I believe every website is a blank canvas, and I paint it with code, creativity,
 - React.js 
 - Git & GitHub
 
-#### Let's Connect!
+####  Let's Connect!
 
-<a href="https://linkedin.com/in/khushisingh50">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" width="30" /> LinkedIn
-</a>  
-<a href="mailto:ksingh237890@gmail.com">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="30" width="30" /> Gmail
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/khushisingh50)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ksingh237890@gmail.com)
 
 ####  Fun Facts
 
