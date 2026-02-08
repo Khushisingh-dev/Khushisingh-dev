@@ -1,5 +1,5 @@
 # About Me:
- Hello, World! <img src="https://camo.githubusercontent.com/d04509037f646eab5c2d6d130574ef059fa8eef92e45a139a827a8d06e9d5042/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533363335313037352f343539342f626c6f622d776176652e676966" width="30"/><br>I'm Khushi Singh, a passionate Frontend Developer from India who loves turning ideas into clean, responsive, and user-friendly web experiences.  <br>I enjoy working at the intersection of **design and code**, where creativity meets functionality.
+ Hello, World! <img src="https://camo.githubusercontent.com/9fcde363f6e46385fd7bc47ef8edd937acaa2c872216105ab0475369f1c1a005/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533363335313037352f343539342f626c6f622d776176652e676966" width="30"/><br>I'm Khushi Singh, a passionate Frontend Developer from India who loves turning ideas into clean, responsive, and user-friendly web experiences.  <br>I enjoy working at the intersection of **design and code**, where creativity meets functionality.
 
 
 # Tech Stack:
